@@ -1,0 +1,14 @@
+.deceasedCases{
+    width: 19%;
+    background: black;
+    margin: 10px 5px;
+    padding: 20px;
+    float: left;
+}
+.heading{
+    color: silver;
+    font-size: 18px;
+}
+.clear{
+    clear: both;
+}

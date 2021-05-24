@@ -1,0 +1,27 @@
+.heading{
+    background-color: dodgerblue;
+    color: black;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headingLine{
+    float: left;
+    width: 20%;
+    font-weight: 700;
+}
+.topLinks{
+    float: right;
+    width: 80%;
+    text-align: right;
+}
+.topLinks a{
+    color: black;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.topLinks a:hover{
+    color: black;
+}
+.clear{
+    clear: both;
+}

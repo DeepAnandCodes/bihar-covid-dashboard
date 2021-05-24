@@ -1,0 +1,14 @@
+.activeCases{
+    width: 19%;
+    background: black;
+    margin: 10px 5px;
+    padding: 20px;
+    float: left;
+}
+.heading{
+    color: rgb(17, 0, 255);
+    font-size: 18px;
+}
+.clear{
+    clear: both;
+}
